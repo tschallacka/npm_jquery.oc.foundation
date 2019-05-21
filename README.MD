@@ -5,7 +5,6 @@ installation:
 
      npm install @tschallacka/jquery.oc.foundation
 
-
 # Example:
 
      require('@tschallacka/jquery.oc.foundation');
