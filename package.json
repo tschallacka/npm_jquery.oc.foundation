@@ -1,6 +1,6 @@
 {
   "name": "@tschallacka/jquery.oc.foundation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A jQuery extension to bind the October Foundation object to the jQuery object. ",
   "main": "jquery.oc.foundation.js",
   "scripts": {
